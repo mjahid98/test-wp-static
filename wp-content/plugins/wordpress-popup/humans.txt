@@ -1,0 +1,9 @@
+/* TEAM */
+	Lead Developer: Danae Millan
+	Location: Uruguay
+
+	Front Developer: Leighton Sapir
+	Location: Ecuador
+
+    Designer: Victor Ivanov
+    Location: Melbourne, Australia

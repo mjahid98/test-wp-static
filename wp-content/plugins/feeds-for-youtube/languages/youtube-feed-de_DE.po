@@ -1,0 +1,875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-11-29 14:34-0600\n"
+"PO-Revision-Date: 2019-11-29 14:40-0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr_e;esc_attr__\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin/admin-functions.php:17 inc/admin/templates/configure.php:1
+msgid "Configure"
+msgstr "Konfigurieren"
+
+#: inc/admin/admin-functions.php:20
+msgid "Customize your feed"
+msgstr ""
+
+#: inc/admin/admin-functions.php:23
+msgid "Customize"
+msgstr "Anpassen"
+
+#: inc/admin/admin-functions.php:26 inc/admin/templates/main.php:57
+msgid "Display your feed"
+msgstr ""
+
+#: inc/admin/admin-functions.php:29
+msgid "Display"
+msgstr "Anzeige"
+
+#: inc/admin/admin-functions.php:34
+msgid "Support"
+msgstr ""
+
+#: inc/admin/admin-functions.php:58
+msgid "Channel"
+msgstr ""
+
+#: inc/admin/admin-functions.php:60
+msgid "Eg: UCNrD5PWitIbhVK8ID or smashballoon."
+msgstr ""
+
+#: inc/admin/admin-functions.php:61
+msgid "Show the latest videos from a YouTube channel."
+msgstr ""
+
+#: inc/admin/admin-functions.php:71
+msgid "List"
+msgstr ""
+
+#: inc/admin/admin-functions.php:73
+msgid "A single columns of videos that play when clicked."
+msgstr ""
+
+#: inc/admin/admin-functions.php:77
+msgid "Grid"
+msgstr ""
+
+#: inc/admin/admin-functions.php:79
+msgid ""
+"Video thumbnails are displayed in columns and play in a lightbox when "
+"clicked."
+msgstr ""
+
+#: inc/admin/admin-functions.php:84 inc/admin/admin-functions.php:110
+msgid "Columns"
+msgstr ""
+
+#: inc/admin/admin-functions.php:93 inc/admin/admin-functions.php:119
+msgid "Mobile Columns"
+msgstr ""
+
+#: inc/admin/admin-functions.php:103
+msgid "Gallery"
+msgstr ""
+
+#: inc/admin/admin-functions.php:105
+msgid ""
+"One large video that plays when clicked with thumbnails underneath to play "
+"more."
+msgstr ""
+
+#: inc/admin/admin-functions.php:134
+msgid "Configure Options"
+msgstr ""
+
+#: inc/admin/admin-functions.php:138
+msgid "Customize Options"
+msgstr ""
+
+#: inc/admin/admin-functions.php:142
+msgid "Layout Options"
+msgstr ""
+
+#: inc/admin/admin-functions.php:146
+msgid "Header Options"
+msgstr ""
+
+#: inc/admin/admin-functions.php:150
+msgid "\"Load More\" Button Options"
+msgstr ""
+
+#: inc/admin/admin-functions.php:154
+msgid "\"Subscribe\" Button Options"
+msgstr ""
+
+#: inc/admin/admin-functions.php:284
+msgid ""
+"Could not connect your account. Please check to make sure this is a valid "
+"access token for the Smash Balloon YouTube App."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:102
+msgid "Feed Type"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:106
+msgid "Display videos from a YouTube channel (channel)"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:117
+msgid "Preserve settings when plugin is removed"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:119
+msgid ""
+"When removing the plugin your settings are automatically erased. Checking "
+"this box will prevent any settings from being deleted. This means that you "
+"can uninstall and reinstall the plugin without losing your settings."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:128
+msgid "Check for new posts"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:136
+msgid "General"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:162
+msgid "Width of Feed"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:166
+msgid "The width of your feed. Any number with a unit like \"px\" or \"%\"."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:174
+msgid "Set to be 100% width on mobile?"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:177
+#, php-format
+msgid ""
+"If you set a width on the feed then this will be used on mobile as well as "
+"desktop. Check this setting to set the feed width to be 100% on mobile so "
+"that it is responsive."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:199
+msgid "Height of Feed"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:203
+msgid "The height of your feed. Any number with a unit like \"px\" or \"em\"."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:216
+msgid "Background Color"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:220
+msgid "Background color for the feed. Any hex color code."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:227
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:238
+msgid "Layout Type"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:243
+msgid "How your posts are display visually."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:383
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:534
+msgid "Connect an account above"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:565 inc/admin/class-sby-admin.php:354
+msgid "When the page loads"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:567 inc/admin/class-sby-admin.php:356
+#, php-format
+msgid ""
+"Your %s data is temporarily cached by the plugin in your WordPress database. "
+"There are two ways that you can set the plugin to check for new data:"
+"<br><br>\n"
+"                <b>1. When the page loads</b><br>Selecting this option means "
+"that when the cache expires then the plugin will check %s for new posts the "
+"next time that the feed is loaded. You can choose how long this data should "
+"be cached for. If you set the time to 60 minutes then the plugin will clear "
+"the cached data after that length of time, and the next time the page is "
+"viewed it will check for new data. <b>Tip:</b> If you're experiencing an "
+"issue with the plugin not updating automatically then try enabling the "
+"setting labeled <b>'Force cache to clear on interval'</b> which is located "
+"on the 'Customize' tab.<br><br>\n"
+"                <b>2. In the background</b><br>Selecting this option means "
+"that the plugin will check for new data in the background so that the feed "
+"is updated behind the scenes. You can select at what time and how often the "
+"plugin should check for new data using the settings below. <b>Please note</"
+"b> that the plugin will initially check for data from Instagram when the "
+"page first loads, but then after that will check in the background on the "
+"schedule selected - unless the cache is cleared."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:573 inc/admin/class-sby-admin.php:362
+msgid "Every"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:576 inc/admin/class-sby-admin.php:365
+msgid "Minutes"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:577 inc/admin/class-sby-admin.php:366
+msgid "Hours"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:578 inc/admin/class-sby-admin.php:367
+msgid "Days"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:580 inc/admin/class-sbspf-admin.php:847
+#: inc/admin/class-sby-admin.php:369
+msgid "What does this mean?"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:581 inc/admin/class-sby-admin.php:370
+#, php-format
+msgid ""
+"Your %s posts are temporarily cached by the plugin in your WordPress "
+"database. You can choose how long the posts should be cached for. If you set "
+"the time to 1 hour then the plugin will clear the cache after that length of "
+"time and check %s for posts again."
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:586 inc/admin/class-sby-admin.php:375
+msgid "In the background"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:591 inc/admin/class-sby-admin.php:380
+#: youtube-feed.php:180
+msgid "Every 30 minutes"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:592 inc/admin/class-sby-admin.php:381
+msgid "Every hour"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:593 inc/admin/class-sby-admin.php:382
+msgid "Every 12 hours"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:594 inc/admin/class-sby-admin.php:383
+msgid "Every 24 hours"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:598 inc/admin/class-sby-admin.php:387
+msgid "at"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:615 inc/admin/class-sby-admin.php:404
+msgid "AM"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:616 inc/admin/class-sby-admin.php:405
+msgid "PM"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:628 inc/admin/class-sby-admin.php:417
+msgid "every 30 minutes"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:629 inc/admin/class-sby-admin.php:418
+msgid "every 12 hours"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:631 inc/admin/class-sby-admin.php:420
+msgid "Next check"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:631 inc/admin/class-sby-admin.php:420
+msgid ""
+"Note: Saving the settings on this page will clear the cache and reset this "
+"schedule"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:633 inc/admin/class-sby-admin.php:422
+msgid "Nothing currently scheduled"
+msgstr ""
+
+#: inc/admin/class-sbspf-admin.php:666
+msgid "Click for shortcode option"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:19
+msgid "Number of Videos"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:20
+msgid "Number of videos to show initially."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:24
+msgid "The number of videos in the feed"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:47
+msgid "Spacing between videos"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:51
+msgid ""
+"The spacing/padding around the videos in the feed. Any number with a unit "
+"like \"px\" or \"em\"."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:60
+msgid "Header"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:70
+msgid "Show Header"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:75
+msgid "Include a header for this feed."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:85
+msgid "Show Channel Description"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:90
+msgid "Include the channel description in the header."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:97
+msgid "\"Load More\" Button"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:107
+msgid "Show \"Load More\" Button"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:112
+msgid ""
+"Include a \"Load More\" button at the bottom of the feed to load more videos."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:123
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:127
+msgid "Background color for the \"Load More\" button. Any hex color code."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:138
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:142
+msgid "Text color for the \"Load More\" button. Any hex color code."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:150 youtube-feed.php:412
+msgid "Load More..."
+msgstr "Mehr laden…"
+
+#: inc/admin/class-sby-admin.php:153
+msgid "Button Text"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:157
+msgid "The text that appers on the \"Load More\" button."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:165
+msgid "\"Subscribe\" Button"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:176
+msgid "Show \"Subscribe\" Button"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:181
+msgid ""
+"Include a \"Subscribe\" button at the bottom of the feed to load more videos."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:192
+msgid "Subscribe Background Color"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:196
+msgid "Background color for the \"Subscribe\" button. Any hex color code."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:207
+msgid "Subscribe Text Color"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:211
+msgid "Text color for the \"Subscribe\" button. Any hex color code."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:219 youtube-feed.php:413
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: inc/admin/class-sby-admin.php:222
+msgid "Subscribe Text"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:226
+msgid "The text that appers on the \"Subscribe\" button."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:233
+msgid "Video Experience"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:241
+msgid "Play when clicked"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:254
+msgid "When does video play?"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:258
+msgid "What the user needs to do to play a video. eg."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:262
+msgid ""
+"List layout will not play automatically. Choose whether to play the video "
+"automatically in the player or wait until the user clicks the play button "
+"after the video is loaded."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:267
+msgid "Custom Code Snippets"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:278
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:280
+msgid "Enter your own custom CSS in the box below"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:289
+msgid "Custom JavaScript"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:291
+msgid "Enter your own custom JavaScript/jQuery in the box below"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:292
+msgid ""
+"Note: Custom JavaScript reruns every time more videos are loaded into the "
+"feed"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:297
+msgid "Advanced"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:305
+msgid "Background"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:309
+msgid "Page"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:313
+msgid "None"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:323
+msgid "Local storage process"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:326
+msgid ""
+"To preserve your feeds and videos even if the YouTube API is unavailable, a "
+"record of each video is added to the wp_posts table in the WordPress "
+"database."
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:334
+msgid "Are you using an AJAX theme?"
+msgstr ""
+
+#: inc/admin/class-sby-admin.php:336
+msgid ""
+"When navigating your site, if your theme uses Ajax to load content into your "
+"pages (meaning your page doesn't refresh) then check this setting. If you're "
+"not sure then it's best to leave this setting unchecked while checking with "
+"your theme author, otherwise checking it may cause a problem."
+msgstr ""
+
+#: inc/admin/templates/configure.php:3
+#, php-format
+msgid "Log in to %s and connect an account"
+msgstr "Melden Sie sich bei %s an und verbinden Sie ein Konto"
+
+#: inc/admin/templates/configure.php:4
+msgid "Button not working?"
+msgstr ""
+
+#: inc/admin/templates/configure.php:15
+#, php-format
+msgid "Or, manually enter my own %s API key"
+msgstr ""
+
+#: inc/admin/templates/configure.php:18
+msgid ""
+"Check this box if you would like to manually enter your own API key. To "
+"generate an api key use <a href=\"https://smashballoon.com/youtube-api-key/"
+"\" target=\"_blank\" rel=\"noopener\">these instructions.</a>"
+msgstr ""
+
+#: inc/admin/templates/configure.php:24
+msgid "API Key"
+msgstr ""
+
+#: inc/admin/templates/configure.php:40 inc/admin/templates/customize.php:8
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/templates/connected-accounts.php:9
+#, php-format
+msgid "%s Accounts"
+msgstr ""
+
+#: inc/admin/templates/connected-accounts.php:10
+#, php-format
+msgid "Use the button above to connect %s account"
+msgstr ""
+
+#: inc/admin/templates/connected-accounts.php:14
+#, php-format
+msgid "No %s accounts connected. Click the button above to connect an account."
+msgstr ""
+
+#: inc/admin/templates/connected-accounts.php:33
+msgid "Manually Connect a Primary Account"
+msgstr ""
+
+#: inc/admin/templates/connected-accounts.php:35
+msgid "Enter a valid Access Token"
+msgstr ""
+
+#: inc/admin/templates/connected-accounts.php:36
+msgid "Enter a valid Refresh Token"
+msgstr ""
+
+#: inc/admin/templates/connected-accounts.php:37
+msgid "Connect This Account"
+msgstr ""
+
+#: inc/admin/templates/display.php:1
+msgid "Display your Feed"
+msgstr ""
+
+#: inc/admin/templates/display.php:2
+msgid ""
+"Copy and paste the following shortcode directly into the page, post or "
+"widget where you'd like the feed to show up:"
+msgstr ""
+
+#: inc/admin/templates/display.php:3 inc/admin/templates/main.php:59
+#: inc/admin/templates/single-connected-account.php:39
+#: inc/admin/templates/single-connected-account.php:40
+#: inc/admin/templates/single-connected-account.php:41
+msgid "To copy, click the field then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr ""
+
+#: inc/admin/templates/display.php:5
+msgid "Multiple Feeds"
+msgstr ""
+
+#: inc/admin/templates/display.php:6
+msgid ""
+"If you'd like to display multiple feeds then you can set different settings "
+"directly in the shortcode like so:"
+msgstr ""
+
+#: inc/admin/templates/display.php:8
+msgid ""
+"You can display as many different feeds as you like, on either the same page "
+"or on different pages, by just using the shortcode options below. For "
+"example:"
+msgstr ""
+
+#: inc/admin/templates/display.php:13
+msgid "See the table below for a full list of available shortcode options:"
+msgstr ""
+
+#: inc/admin/templates/display.php:18
+msgid "Shortcode option"
+msgstr ""
+
+#: inc/admin/templates/display.php:19
+msgid "Description"
+msgstr ""
+
+#: inc/admin/templates/display.php:20
+msgid "Example"
+msgstr ""
+
+#: inc/admin/templates/display.php:37 inc/admin/templates/support.php:1
+msgid "Need help?"
+msgstr ""
+
+#: inc/admin/templates/display.php:37
+msgid "Get Support"
+msgstr ""
+
+#: inc/admin/templates/main.php:17
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin/templates/main.php:50
+msgid "Next Step"
+msgstr ""
+
+#: inc/admin/templates/main.php:54
+msgid "Need help setting up the plugin? Check out our <a href=\""
+msgstr ""
+
+#: inc/admin/templates/main.php:58
+msgid ""
+"Copy and paste this shortcode directly into the page, post or widget where "
+"you'd like to display the feed:"
+msgstr ""
+
+#: inc/admin/templates/main.php:60
+msgid "Find out how to display <a href='?page="
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:4
+msgid ""
+"The Access Token for this account is expired or invalid. Click the button "
+"above to attempt to renew it."
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:9
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:14
+msgid "Channel ID:"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:18
+msgid "Add to another Feed"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:19
+msgid "Show access token and account info"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:24
+msgid "Copy and paste this shortcode into your page or widget area"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:32
+msgid ""
+"To add multiple channels in the same feed, simply separate them using commas"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:35
+#, php-format
+msgid "Click on the %s tab to learn more about shortcodes"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:35
+msgid "Display Your Feed"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:39
+msgid "Access Token"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:40
+msgid "Refresh Token"
+msgstr ""
+
+#: inc/admin/templates/single-connected-account.php:41
+msgid "Channel ID"
+msgstr ""
+
+#: inc/admin/templates/support.php:3
+msgid "Check out our "
+msgstr ""
+
+#: inc/admin/templates/support.php:3
+msgid "setup directions"
+msgstr ""
+
+#: inc/admin/templates/support.php:3
+msgid "for a step-by-step guide on how to setup and use the plugin"
+msgstr ""
+
+#: inc/admin/templates/support.php:5
+msgid "Have a problem? Submit a "
+msgstr ""
+
+#: inc/admin/templates/support.php:5
+msgid "support ticket"
+msgstr ""
+
+#: inc/admin/templates/support.php:5
+msgid "on our website"
+msgstr ""
+
+#: inc/admin/templates/support.php:5
+msgid "Please include your <b>System Info</b> below with all support requests."
+msgstr ""
+
+#: inc/admin/templates/support.php:8
+msgid "System Info"
+msgstr ""
+
+#: inc/admin/templates/support.php:8
+msgid "Click the text below to select all"
+msgstr ""
+
+#: inc/class-sby-api-connect.php:102
+#, php-format
+msgid "Error: %s."
+msgstr ""
+
+#: inc/class-sby-api-connect.php:104
+msgid ""
+"There's an issue with the YouTube API Key that you are using. Please check "
+"to make sure that this is a valid API Key."
+msgstr ""
+
+#: inc/class-sby-api-connect.php:118
+#, php-format
+msgid "Error connecting to %s."
+msgstr ""
+
+#: inc/class-sby-feed.php:737
+msgid "Error: No videos found."
+msgstr ""
+
+#: inc/class-sby-feed.php:738
+msgid ""
+"Make sure this is a valid channel ID and that the channel has videos "
+"available on youtube.com."
+msgstr ""
+
+#: inc/class-sby-feed.php:863
+msgid "No posts found."
+msgstr ""
+
+#: inc/class-sby-posts-manager.php:235
+msgid "There was an error creating the folder for storing resized images."
+msgstr ""
+
+#: inc/class-sby-posts-manager.php:323
+msgid "Notice: API requests are being delayed for 5 minutes."
+msgstr ""
+
+#: inc/class-sby-posts-manager.php:323
+msgid "Feed will not update."
+msgstr ""
+
+#: inc/class-sby-posts-manager.php:332
+msgid ""
+"There may be an issue with the YouTube access token that you are using. Your "
+"server might also be unable to connect to YouTube at this time."
+msgstr ""
+
+#: inc/sby-functions.php:21 inc/sby-functions.php:137
+msgid "This error message is only visible to WordPress admins"
+msgstr ""
+
+#: inc/sby-functions.php:22
+msgid "Error: No connected account."
+msgstr ""
+
+#: inc/sby-functions.php:23
+msgid "Please go to the YouTube Feed settings page to connect an account."
+msgstr ""
+
+#: inc/widget.php:13 youtube-feed.php:94
+msgid "YouTube Feed"
+msgstr ""
+
+#: inc/widget.php:14
+msgid "Display your YouTube feed"
+msgstr ""
+
+#: inc/widget.php:40
+msgid "Title:"
+msgstr ""
+
+#: templates/item.php:22 templates/player.php:10
+msgid "Image for post"
+msgstr ""
+
+#: templates/item.php:34 templates/player.php:17
+#, php-format
+msgid "YouTube Video %s"
+msgstr ""
+
+#: youtube-feed.php:97
+msgid "a"
+msgstr ""
+
+#: youtube-feed.php:100
+msgid "YouTube"
+msgstr ""
+
+#: youtube-feed.php:125
+msgid "Videos"
+msgstr ""
+
+#: youtube-feed.php:126
+msgid " "
+msgstr ""
+
+#: youtube-feed.php:127 youtube-feed.php:128
+msgid "Add New Video"
+msgstr ""
+
+#: youtube-feed.php:129
+msgid "Edit Video"
+msgstr ""
+
+#: youtube-feed.php:130
+msgid "View Video"
+msgstr ""
+
+#: youtube-feed.php:131
+msgid "All Videos"
+msgstr ""
+
+#: youtube-feed.php:441
+msgid "Settings"
+msgstr ""
